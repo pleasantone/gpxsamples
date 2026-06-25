@@ -32,8 +32,8 @@ San Rafael, California, 94903, United States
       <sym>Restaurant</sym>
       <extensions>
         <trp:ViaPoint>
-          <trp:DepartureTime>2023-07-30T16:15:43Z</trp:DepartureTime>
-          <trp:ArrivalTime>2023-07-27T16:15:28Z</trp:ArrivalTime>
+          <trp:DepartureTime>2023-07-27T16:30:00Z</trp:DepartureTime>
+          <trp:ArrivalTime>2023-07-27T16:00:00Z</trp:ArrivalTime>
           <trp:CalculationMode>FasterTime</trp:CalculationMode>
           <trp:ElevationMode>Standard</trp:ElevationMode>
         </trp:ViaPoint>
